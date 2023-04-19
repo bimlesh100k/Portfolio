@@ -42,7 +42,7 @@ const Social_icons = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/Bimlesh_Resume.pdf",
+            href: "/Bimlesh Resume.pdf",
             style: "rounded-br-md",
             download: true,
         },
